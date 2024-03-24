@@ -1,5 +1,3 @@
-Free Download Source Code "ONLINE FACULTY CLEARANCE MANAGEMENT SYSTEM"
-
 FIRST Download
 
 1.XAMPP
@@ -28,6 +26,3 @@ FIRST Download
 Admin
 user: admin@gmail.com
 pass: admin
-
-****** https:1sourcecodr.blogspot.com ******
-Subcribe my You tube Channel **** 1 Source code ****
